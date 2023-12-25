@@ -1,0 +1,7 @@
+#ifndef GAMEBOY_EMULATION_CPUOPCODES_H
+#define GAMEBOY_EMULATION_CPUOPCODES_H
+
+#include "emulator.h"
+#include "flag.h"
+
+#endif //GAMEBOY_EMULATION_CPUOPCODES_H

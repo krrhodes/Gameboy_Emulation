@@ -1,0 +1,12 @@
+#ifndef GAMEBOY_EMULATION_TIMER_H
+#define GAMEBOY_EMULATION_TIMER_H
+
+#include "emulator.h"
+
+#define TIMA 0xFF05
+#define TMA 0xFF06
+#define TMC 0xFF07
+
+#define CLOCKSPEED 4194304
+
+#endif // GAMEBOY_EMULATION_TIMER_H
