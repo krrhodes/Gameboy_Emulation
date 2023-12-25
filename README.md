@@ -1,0 +1,2 @@
+# Gameboy Emulation
+This is an emulator for the original Gameboy system. It implements > 300 OPCodes from the i8080 processor. This PDF was used as a reference for the architecture http://www.codeslinger.co.uk/pages/projects/gameboy/files/GB.pdf. SDL with OpenGL is used for an interface. To give it a try, compile using the included CMake file, by default it expects a ROM (NOT INCLUDED) called Pokemon.gb in the workspace. Thanks for taking a look!
